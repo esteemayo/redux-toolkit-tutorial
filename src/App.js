@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from 'react-redux';
 
-import { decrement, increment, incrementByAmount } from './redux/counter';
+import { decrement, increment, incrementByAmount } from 'redux/counter';
 
 import './App.css';
 
